@@ -2,3 +2,4 @@ streamlit
 pandas
 pymysql
 python-dotenv
+cryptography
