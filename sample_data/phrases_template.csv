@@ -1,0 +1,51 @@
+scene,en,zh,tags,level
+Context,"In my previous role, I was responsible for...",在我之前的岗位中，我主要负责……,"ba,interview,storytelling",B1
+Context,The main objective of this project was to...,这个项目的主要目标是……,"ba,interview,storytelling",B1
+Context,We were trying to solve a problem where...,我们当时在解决一个……的问题,"ba,interview,storytelling",B1
+Context,This project focused mainly on...,这个项目主要聚焦在……,"ba,interview,storytelling",B1
+Context,The business context behind this was...,这个项目背后的业务背景是……,"ba,interview,storytelling",B2
+Requirements & Analysis,We gathered requirements from multiple stakeholders.,我们从多个干系人处收集需求。,"ba,requirements,stakeholders",B1
+Requirements & Analysis,One key requirement was that...,一个关键需求是……,"ba,requirements",B1
+Requirements & Analysis,We translated business needs into technical requirements.,我们把业务需求转化为技术需求。,"ba,requirements,translation",B2
+Requirements & Analysis,We identified several gaps in the current process.,我们发现了当前流程中的几个缺口。,"ba,gap-analysis,process",B2
+Requirements & Analysis,We prioritised the requirements based on impact and effort.,我们基于影响和工作量对需求做了优先级排序。,"ba,prioritisation",B2
+Data & Method,We used SQL to extract data from the database.,我们使用 SQL 从数据库提取数据。,"data,sql",B1
+Data & Method,I performed data cleaning and transformation using Python.,我用 Python 进行数据清洗和转换。,"data,python,etl",B2
+Data & Method,We built dashboards to monitor key metrics.,我们构建了仪表盘来监控关键指标。,"data,dashboard,kpi",B1
+Data & Method,We conducted exploratory data analysis.,我们做了探索性数据分析。,"data,eda",B2
+Data & Method,We defined KPIs to measure performance.,我们定义了 KPI 来衡量绩效。,"data,kpi",B1
+Insights,One important insight was that...,一个重要发现是……,"insights,analysis",B1
+Insights,We noticed a clear trend in...,我们注意到……存在明显趋势。,"insights,trend",B1
+Insights,This indicated that...,这表明……,"insights,interpretation",B1
+Insights,We found that users were more likely to...,我们发现用户更有可能……,"insights,user-behavior",B2
+Insights,This pattern was consistent across segments.,这个模式在不同分群中一致。,"insights,segmentation",B2
+Recommendations,"Based on the analysis, we recommended that...",基于分析，我们建议……,"recommendation,decision",B1
+Recommendations,This would help improve...,这将有助于提升……,"recommendation,impact",B1
+Recommendations,We proposed several options for the business.,我们向业务方提出了几个方案。,"recommendation,options",B2
+Recommendations,The preferred option was to...,首选方案是……,"recommendation,options",B1
+Recommendations,This decision was driven by...,这个决策由……驱动。,"recommendation,rationale",B2
+Collaboration,I worked closely with cross-functional teams.,我与跨职能团队密切合作。,"collaboration,teamwork",B1
+Collaboration,We aligned with stakeholders on expectations.,我们与干系人对齐了预期。,"collaboration,stakeholders",B2
+Collaboration,I facilitated workshops and discussions.,我主持了工作坊和讨论。,"collaboration,facilitation",B2
+Collaboration,We resolved conflicting requirements.,我们解决了冲突需求。,"collaboration,conflict-resolution",B2
+Collaboration,I provided regular updates to the team.,我定期向团队汇报进展。,"collaboration,communication",B1
+Impact,"As a result, we achieved...",因此，我们实现了……,"impact,results",B1
+Impact,This led to a reduction in...,这导致……下降。,"impact,results",B1
+Impact,We saw an increase in...,我们看到……提升。,"impact,results",B1
+Impact,The solution delivered measurable value.,该方案带来了可衡量的价值。,"impact,value",B2
+Impact,It had a positive impact on the business.,它对业务产生了积极影响。,"impact,value",B1
+Risk & Improvement,One challenge we faced was...,我们遇到的一个挑战是……,"risk,challenge",B1
+Risk & Improvement,We mitigated this risk by...,我们通过……降低了风险。,"risk,mitigation",B2
+Risk & Improvement,"Looking back, I would improve...",回顾来看，我会改进……,"improvement,reflection",B2
+Risk & Improvement,We learned that...,我们学到的是……,"improvement,lessons",B1
+Risk & Improvement,This experience taught me...,这个经历教会了我……,"improvement,lessons",B1
+Tools & Tech,I am comfortable using Python and SQL.,我熟练使用 Python 和 SQL。,"tools,python,sql",B1
+Tools & Tech,I have experience with Power BI and Excel.,我有 Power BI 和 Excel 使用经验。,"tools,powerbi,excel",B1
+Tools & Tech,We automated part of the reporting process.,我们自动化了部分报表流程。,"tools,automation",B2
+Tools & Tech,We improved data quality through validation checks.,我们通过校验提升了数据质量。,"tools,data-quality",B2
+Tools & Tech,We built a simple data pipeline.,我们构建了一个简单数据管道。,"tools,pipeline",B2
+Wrap-up,"Overall, this project was successful because...",总体来说，这个项目成功是因为……,"wrap-up,summary",B2
+Wrap-up,It demonstrated my ability to...,它展示了我能够……,"wrap-up,summary",B1
+Wrap-up,I’m keen to apply these skills in this role.,我希望在该岗位应用这些技能。,"wrap-up,motivation",B1
+Wrap-up,This aligns well with my career goals.,这与我的职业目标高度契合。,"wrap-up,motivation",B1
+Wrap-up,I’m happy to elaborate if needed.,如果需要我可以进一步说明。,"wrap-up,closing",B1
